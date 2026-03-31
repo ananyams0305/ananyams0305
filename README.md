@@ -1,16 +1,12 @@
 ## Hi there 👋
+Hi there 👋 I'm ANANYA SINGH
+🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
 
-<!--
-**ananyams0305/ananyams0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+🌱 Currently learning: Web Development / Python
+🔭 Working on: Personal projects
+💡 Interested in: AI, Apps, Open Source
+🛠️ Tech Stack
+Languages: Python, JavaScript, C++
+Frontend: HTML, CSS, React
+Tools: Git, VS Code
